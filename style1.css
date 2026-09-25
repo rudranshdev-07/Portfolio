@@ -1,0 +1,17 @@
+#item-1{background-color: yellow; 
+    height: 100px; 
+    width: 100px; 
+    padding: 10px; 
+    border-width: 10px; 
+    border-color: rgba(75, 19, 19, 0.336); 
+    border-style: solid;}
+
+#item-2{background-color: orange; 
+    height: 100px; 
+    width: 100px; 
+    padding: 10px; 
+    border-width: 10px; 
+    border-color: rgba(67, 12, 12, 0.336); 
+    border-style: solid; 
+    margin: 50px;
+    box-sizing: border-box;}
